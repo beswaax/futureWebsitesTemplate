@@ -1,4 +1,4 @@
-# Next.js example
+# Custom Template for future websites
 
 ## How to use
 
